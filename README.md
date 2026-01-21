@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce application built with a focus on performance and seamless user experience. 
 
-[![Built with Replit](https://img.shields.io/badge/Built%20with-Replit-blue?style=flat-square)](https://replit.com)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ---
